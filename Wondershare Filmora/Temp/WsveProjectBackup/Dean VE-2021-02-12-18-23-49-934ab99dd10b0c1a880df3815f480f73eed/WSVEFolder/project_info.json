@@ -1,0 +1,24 @@
+{
+    "document_animation_type": 0,
+    "document_create_date": "2021-02-12 13:09:37.000",
+    "document_create_version": "10.0.10.20",
+    "document_default_animation": "",
+    "document_duration": 18288,
+    "document_framerate": 30,
+    "document_modify_date": "2021-02-12 18:23:49.000",
+    "document_name": "Dean VE",
+    "document_new_version": "10.0.10.20",
+    "document_project_archive": false,
+    "document_project_guid": "00186fde-67c5-4356-8ed9-5ace8cb21629",
+    "document_size": {
+        "height": 720,
+        "width": 1280
+    },
+    "document_type_name": "wfp",
+    "document_used_pack_name": [
+        "DefaultPackage_X"
+    ],
+    "doucment_play_quality": 1,
+    "doucment_play_safe_zone": false,
+    "doucment_play_zoom_level": 0
+}
