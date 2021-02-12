@@ -1,0 +1,24 @@
+{
+    "document_animation_type": 0,
+    "document_create_date": "2021-02-11 18:39:24.000",
+    "document_create_version": "10.0.10.20",
+    "document_default_animation": "",
+    "document_duration": 46517,
+    "document_framerate": 30,
+    "document_modify_date": "2021-02-12 13:09:35.000",
+    "document_name": "dean",
+    "document_new_version": "10.0.10.20",
+    "document_project_archive": false,
+    "document_project_guid": "492680c0-8c58-4b6f-ae14-b8c208ee8b14",
+    "document_size": {
+        "height": 720,
+        "width": 1280
+    },
+    "document_type_name": "wfp",
+    "document_used_pack_name": [
+        "DefaultPackage_X"
+    ],
+    "doucment_play_quality": 0,
+    "doucment_play_safe_zone": false,
+    "doucment_play_zoom_level": 0
+}

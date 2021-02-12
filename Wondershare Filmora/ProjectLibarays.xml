@@ -1,0 +1,41 @@
+<!DOCTYPE ProjectLibrary>
+<ProjectLibrary version="1.0">
+    <Medias>
+        <Media>
+            <Type>1</Type>
+            <Name>Untitle-2021-02-11 18 51 33</Name>
+            <Path>C:/Users/user/Documents/Wondershare/Wondershare Filmora/Backup/Untitle-2021-02-11 18 51 33.wfp</Path>
+            <Thumbnail>C:/Users/user/Documents/Wondershare/Wondershare Filmora/Temp/WsveTempFile/Untitle-2021-02-11 18 51 33/WSVEFolder/Project/thumb.fsthumb</Thumbnail>
+            <CreateTime>1613057964</CreateTime>
+            <ModifyTime>1613058693</ModifyTime>
+            <Duration>10134</Duration>
+        </Media>
+        <Media>
+            <Type>1</Type>
+            <Name>dean</Name>
+            <Path>C:/Users/user/Documents/Wondershare/dean.wfp</Path>
+            <Thumbnail></Thumbnail>
+            <CreateTime>1613057964</CreateTime>
+            <ModifyTime>1613124575</ModifyTime>
+            <Duration>46517</Duration>
+        </Media>
+        <Media>
+            <Type>1</Type>
+            <Name>Untitle-2021-02-12 13 40 54</Name>
+            <Path>C:/Users/user/Documents/Wondershare/Wondershare Filmora/Backup/Untitle-2021-02-12 13 40 54.wfp</Path>
+            <Thumbnail>C:/Users/user/Documents/Wondershare/Wondershare Filmora/Temp/WsveTempFile/Untitle-2021-02-12 13 40 54/WSVEFolder/Project/thumb.fsthumb</Thumbnail>
+            <CreateTime>1613124577</CreateTime>
+            <ModifyTime>1613126454</ModifyTime>
+            <Duration>7638</Duration>
+        </Media>
+        <Media>
+            <Type>1</Type>
+            <Name>Dean VE</Name>
+            <Path>C:/Users/user/Documents/Wondershare/Dean VE.wfp</Path>
+            <Thumbnail></Thumbnail>
+            <CreateTime>1613124577</CreateTime>
+            <ModifyTime>1613136362</ModifyTime>
+            <Duration>12036</Duration>
+        </Media>
+    </Medias>
+</ProjectLibrary>
